@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { FiThumbsUp, FiThumbsDown } from 'react-icons';
+// import { FiThumbsUp, FiThumbsDown } from 'react-icons';
 
 export default class ClassComponentDemo extends Component {
     constructor(props) {
